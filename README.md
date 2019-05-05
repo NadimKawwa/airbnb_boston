@@ -41,6 +41,9 @@ Finally we looked into the descriptions written by the landlords. South End and 
 
 ![boston_cloud](https://github.com/NadimKawwa/airbnb_boston/blob/master/plots/boston_heat.png)
 
+
+In conclusion what we realized that words written in the summary had little effect on asking price. What mattered more by far was the number of guests we can accomodate and number of bathrooms.
+
 ## Acknowledgments
 
 I would like to acknowledge Airbnb for making this data free for the public.
